@@ -2,8 +2,9 @@
 QuantumGuardian Wallet (QGuard) - Enabling the Power of Quantum-Secured Cryptocurrency Transactions
 
 # Tagline:
-
 "Fortify Your Crypto Future with QuantumGuardian Wallet (QGuard)"
+
+![Gameplay](https://github.com/samar19/pic-/blob/master/Screen%20Shot%202023-07-29%20at%201.31.11%20PM.png)
 
 # Project Description:
 QuantumGuardian Wallet (QGuard) is an advanced crypto wallet empowered by quantum cryptography and a Hybrid Quantum system, providing a unique security solution while supporting Smart Contracts in ERC20 tokens. Cryptocurrencies operate on decentralized control, offering advantages in trust and transparency. However, their security relies heavily on digital signatures and cryptographic hash functions, which are susceptible to potential attacks by quantum computers. As quantum computing continues to advance, the risk of compromising these security measures becomes a pressing concern, threatening the integrity of the entire cryptocurrency market.
