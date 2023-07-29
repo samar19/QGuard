@@ -107,11 +107,15 @@ QuantumGuardian Wallet (QGuard) offers an advanced crypto wallet solution empowe
 4. **Education:** Promoting awareness and understanding of quantum computing threats among users and businesses.
 
 5. **Regulatory Compliance:** Navigating and adhering to evolving regulatory frameworks surrounding quantum cryptography and cryptocurrencies.
+
+
+We are applying for grants and looking for investors to support our research and help us launch product the market in upcoming years.
+
  
 # screencast link :
 # youtube 
-persentation link : 
-demo on remix : 
+persentation link : https://www.youtube.com/watch?v=7r2DlbMyiOQ
+
 # github 
 https://github.com/samar19/QGuard
 
