@@ -116,7 +116,7 @@ demo on remix :
 https://github.com/samar19/QGuard
 
 # Technologies Used
- # smart contract 
+ # smart contract & tested in remix
  **solidty**
 
 
