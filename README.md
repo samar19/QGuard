@@ -49,9 +49,36 @@ The contemporary threat landscape perpetually evolves, characterized by persiste
 QuantumGuardian Wallet (QGuard) leads the forefront of quantum-resistant security and Smart Contract support for ERC20 tokens, potentially revolutionizing the way users interact with cryptocurrencies. It guarantees utmost data confidentiality, authenticity, and privacy in an increasingly interconnected world, setting new benchmarks for secure crypto transactions.
 
 
-## Flowchain: Flowchart 
 
-![Gameplay](https://github.com/samar19/pic-/blob/master/Screen%20Shot%202023-07-07%20at%209.51.51%20AM.png)
+
+**QGuard Smart Contract Overview:**
+
+The QGuard smart contract is an implementation of the ERC-20 standard, a widely used standard for creating tokens on the Ethereum blockchain. The contract allows users to create and manage their own token, which can be transferred, approved for spending by other addresses, and utilized in a decentralized manner.
+
+**Usage:**
+
+1. The contract allows users to create their custom tokens with unique names, symbols, and decimals.
+
+2. Users can transfer their tokens to other addresses using the `transfer` function, ensuring they have a sufficient balance.
+
+3. Users can approve other addresses to spend a certain amount of tokens on their behalf using the `approve` function.
+
+4. Approved addresses can then transfer tokens on behalf of the token holder using the `transferFrom` function, up to the approved amount.
+
+**Functions:**
+
+1. `constructor`: Initializes the token with the given parameters - name, symbol, decimals, and total supply. The total supply is assigned to the creator's address.
+
+2. `transfer`: Allows users to transfer a certain amount of tokens to another address. It checks if the sender has sufficient balance before executing the transfer.
+
+3. `_transfer`: An internal function that handles the transfer of tokens between addresses. It is called by the `transfer` function.
+
+4. `approve`: Allows users to approve another address to spend a specific amount of tokens on their behalf. It sets the allowance for the specified spender.
+
+5. `transferFrom`: Allows a spender, who has been approved by the token holder, to transfer tokens on behalf of the token holder up to the approved amount.
+
+
+![Gameplay](https://github.com/samar19/pic-/blob/master/Screen%20Shot%202023-07-29%20at%201.09.24%20PM.png)
 
 
 # What I did for the NISQ Quantum Hackathon Round-3
