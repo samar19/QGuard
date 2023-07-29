@@ -80,19 +80,16 @@ QuantumGuardian Wallet (QGuard) offers an advanced crypto wallet solution empowe
 
 5. **Regulatory Compliance:** Navigating and adhering to evolving regulatory frameworks surrounding quantum cryptography and cryptocurrencies.
  
-
-
-
-
 # screencast link :
 # youtube 
 persentation link : 
 demo on remix : 
 # github 
+https://github.com/samar19/QGuard
 
 # Technologies Used
-# smart contract 
- solidty 
+ # smart contract 
+ **solidty**
 
 
 
